@@ -44,7 +44,7 @@ input{
 }
 input::placeholder{
     color: #000000;
-    border-radius:50%;
+   
 }
 button{
     border: 20px;
